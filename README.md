@@ -1,7 +1,5 @@
 # 📈 InvestHub - Platform Investasi Modern
 
-![InvestHub Cover](https://via.placeholder.com/1200x600?text=InvestHub+Cover+Image)
-
 Platform investasi all-in-one dengan antarmuka intuitif dan alat analisis canggih untuk membantu Anda membuat keputusan investasi yang lebih baik.
 
 ## 🌟 Fitur Utama
