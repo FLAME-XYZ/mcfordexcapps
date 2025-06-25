@@ -8,7 +8,7 @@ function checkMaintenance() {
     if (maintenanceConfig.enabled) {
         const currentPage = window.location.pathname.split('/').pop();
         
-        if (currentPage !== 'maintenance.html') {
+        if (currentPage !== 'launching.html') {
 
             fetch('https://api.ipify.org?format=json')
                 .then(response => response.json())
