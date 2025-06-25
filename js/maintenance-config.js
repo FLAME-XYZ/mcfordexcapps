@@ -8,7 +8,7 @@ function checkMaintenance() {
     if (maintenanceConfig.enabled) {
         const currentPage = window.location.pathname.split('/').pop();
         
-        if (currentPage !== 'launching.html') {
+        if (currentPage !== '/launching.html') {
 
             fetch('https://api.ipify.org?format=json')
                 .then(response => response.json())
@@ -16,12 +16,12 @@ function checkMaintenance() {
                     const userIP = data.ip;
                     if (!maintenanceConfig.allowedIPs.includes(userIP)) {
 
-                        window.location.href = 'maintenance.html';
+                        window.location.href = '/launching.html';
                     }
                 })
                 .catch(() => {
 
-                    window.location.href = 'maintenance.html';
+                    window.location.href = '/launching.html';
                 });
         }
     }
