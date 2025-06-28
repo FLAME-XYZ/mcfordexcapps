@@ -7,7 +7,7 @@ Platform investasi cryptocurrency all-in-one dengan antarmuka intuitif dan anali
 - 💰 **Multi-Exchange Integration** - Terhubung dengan Binance, Coinbase, dll
 - 🔐 **Non-Custodial Wallet** - Kendali penuh atas aset Anda
 - 📈 **Real-time Crypto Charts** - Dengan indikator teknikal
-- 🤖 **AI Trading Assistant** - Analisis pasar berbasis machine learning
+- 🤖 **AI Futures Assistant** - Analisis pasar berbasis machine learning
 - 🔔 **Price Alerts** - Notifikasi harga real-time
 - 🛡️ **DeFi Integration** - Akses ke protokol DeFi terkemuka
 
