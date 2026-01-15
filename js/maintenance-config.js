@@ -1,7 +1,7 @@
 const maintenanceConfig = {
     enabled: false,
     allowedIPs: ['127.0.0.1'],
-    endDate: '2025-06-29T15:00:00',
+    endDate: '2026-01-19T15:00:00',
 };
 
 function checkMaintenance() {
