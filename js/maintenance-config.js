@@ -1,5 +1,5 @@
 const maintenanceConfig = {
-    enabled: true,
+    enabled: false,
     allowedIPs: ['127.0.0.1'],
     endDate: '2026-01-19T15:00:00',
 };
